@@ -1,6 +1,7 @@
-char* new funtion()
-{
 	
+int new funtion()
+{
+
 }
 
 
