@@ -1,3 +1,6 @@
-//new funtion
+char* new funtion()
+{
+	
+}
 
 
